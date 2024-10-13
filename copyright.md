@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Legcord Banner" src="../assets//legcord-banner.png" height="256px" /><br>
+    <img alt="Legcord Banner" src="./assets//legcord-banner.png" height="256px" /><br>
     Branding Copyright Policy
 </h1>
 
